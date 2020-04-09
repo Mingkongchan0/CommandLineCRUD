@@ -5,7 +5,8 @@ Start cmd as Administrator and cd to directory containing the .jar file.
 
 
 >java -jar {jarname}.jar {argument}
-For example, java -jar CommmandLineCRUDtest-20200409.jar create
+
+>For example, java -jar CommmandLineCRUDtest-20200409.jar create
  
  Use the command above with any of the following arguments
 
