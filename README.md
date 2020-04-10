@@ -10,23 +10,8 @@ Start cmd as Administrator and cd to directory containing the .jar file.
  
  Use the command above with any of the following arguments
 
->connect
-
-Tests the connection to SQLite
-
->create
-
-Creates a table with appropriate columns and type
-
->insert
-
-Console prompts the user to input values(name, email) to be added to the table
-
->select
-
-Displays all available records contained within the table
-
->delete
-
-Console prompt the user to input value(id) to be deleted from the table
-
+*Connect (Tests connection to SQLite)
+*Create (Creates a table with the appropriate columns and type)
+*Insert (Adds a record to the table)
+*Select (Displays a list of the records)
+*Delete (Deletes a record from the table)
