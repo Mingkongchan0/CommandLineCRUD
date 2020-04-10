@@ -3,6 +3,7 @@
 
 Start cmd as Administrator and cd to directory containing the .jar file. 
 
+## Running the application
 
 >java -jar {jarname}.jar {argument}
 
